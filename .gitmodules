@@ -1,0 +1,9 @@
+[submodule "gei-nxpcup-4w-pwr"]
+	path = gei-nxpcup-4w-pwr
+	url = https://github.com/INSA-GEI/gei-nxpcup-4w-pwr.git
+[submodule "gei-nxpcup-4w-mainboard"]
+	path = gei-nxpcup-4w-mainboard
+	url = https://github.com/INSA-GEI/gei-nxpcup-4w-mainboard.git
+[submodule "gei-nxpcup-4w-meca"]
+	path = gei-nxpcup-4w-meca
+	url = https://github.com/INSA-GEI/gei-nxpcup-4w-meca.git
